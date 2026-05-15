@@ -24,7 +24,7 @@ Official source code for
 > *Department of Mathematics & Research Institute for Natural Sciences, Hanyang University*
 
 <p align="center">
-  <img src="assets/fig1_overview.png" alt="Overview of FacePoison" width="80%">
+  <img src="assets/fig1_overview.png" alt="Overview of FacePoison" width="100%">
 </p>
 
 We present the **first unlearnable-example (UE) generator tailored for open-set Face
